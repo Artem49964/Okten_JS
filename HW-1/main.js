@@ -21,7 +21,6 @@ let m = false
 
 
 
-
 // 2
 
 let firstName = 'Artem'
