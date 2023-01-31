@@ -24,10 +24,10 @@ let m = false
 
 // 2
 
-let firstName = 'Mariia'
-let middleName = 'Oleksandrivna'
-let lastName = 'Untilova'
-let age = '21'
+let firstName = 'Artem'
+let middleName = 'Sergiiovich'
+let lastName = 'Epelman'
+let age = '22'
 
 person = `Hello, ${firstName} ${middleName}`
 
